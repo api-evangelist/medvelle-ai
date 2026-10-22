@@ -1,0 +1,10 @@
+generated: '2026-10-21'
+method: probed
+source: https://www.medvelle.com/mcp/manifest.yml
+deployment:
+  mode: remote
+  endpoint: https://www.medvelle.com/mcp/endpoint
+  install: null
+  package: null
+  auth: unknown
+  verified: probed

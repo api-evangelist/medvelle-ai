@@ -1,0 +1,20 @@
+generated: '2026-10-21'
+method: none
+source:
+- https://zapier.com/apps/medvelle-ai/integrations
+- https://zapier.com/apps/medvelle/integrations
+- https://n8n.io/integrations/medvelle-ai/
+- https://n8n.io/integrations/medvelle/
+- https://composio.dev/toolkits/medvelle-ai
+- https://monid.ai/tools/medvelle-ai
+checked:
+- https://composio.dev/toolkits/medvelle-ai
+- https://monid.ai/tools/medvelle-ai
+- https://n8n.io/integrations/medvelle-ai/
+- https://n8n.io/integrations/medvelle/
+- https://zapier.com/apps/medvelle-ai/integrations
+- https://zapier.com/apps/medvelle/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

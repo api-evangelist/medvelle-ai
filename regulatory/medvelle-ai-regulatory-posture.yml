@@ -1,0 +1,21 @@
+generated: '2026-10-21'
+method: probed
+source:
+  - https://www.medvelle.com/privacy-policy
+signals:
+  data_subject_request:
+    evidence:
+      - source: https://www.medvelle.com/privacy-policy
+        http_status: 200
+        fetched: privacy-policy.html
+        quote: "You have the right to request access to, correction of, and deletion of your personal information held by us."
+        section: Your Rights
+        note: Provides data subject rights to access, correct, and delete personal data.
+  subprocessors:
+    evidence:
+      - source: https://www.medvelle.com/privacy-policy
+        http_status: 200
+        fetched: privacy-policy.html
+        quote: "We may share your personal information with trusted partners who assist us in delivering our services, such as statistical analysis, customer support, or product delivery. These partners are required to maintain the confidentiality of your information and are prohibited from using it for any other purpose."
+        section: Sharing of Information
+        note: Indicates use of subprocessors with confidentiality obligations.
